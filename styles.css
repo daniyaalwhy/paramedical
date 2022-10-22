@@ -581,7 +581,7 @@ div.social {
 .main-box{
   width: 100%;
   height: 80vh;
-  background-image: linear-gradient(#000000bb, #000000bb), url(images/img4.jpeg);
+  background-image: linear-gradient(#000000bb, #000000bb), url(img4.jpeg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
